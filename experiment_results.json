@@ -1,0 +1,686 @@
+{
+  "0": {
+    "train_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_train.csv",
+    "test_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_test.csv",
+    "metrics": {
+      "training": {
+        "accuracy": 83.06613226452906,
+        "f1": 83.0342478653356,
+        "precision": 83.09129332693898,
+        "recall": 83.06613226452906,
+        "confusion": [
+          [
+            374,
+            96
+          ],
+          [
+            73,
+            455
+          ]
+        ]
+      },
+      "test": {
+        "accuracy": 83.65019011406845,
+        "f1": 83.27406602691772,
+        "precision": 87.30970466337773,
+        "recall": 83.65019011406845,
+        "confusion": [
+          [
+            129,
+            1
+          ],
+          [
+            42,
+            91
+          ]
+        ]
+      }
+    }
+  },
+  "2": {
+    "train_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_train.csv",
+    "test_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_test.csv",
+    "metrics": {
+      "training": {
+        "accuracy": 83.86773547094188,
+        "f1": 83.87489560296373,
+        "precision": 83.89570723137419,
+        "recall": 83.86773547094188,
+        "confusion": [
+          [
+            394,
+            76
+          ],
+          [
+            85,
+            443
+          ]
+        ]
+      },
+      "test": {
+        "accuracy": 88.212927756654,
+        "f1": 88.06331631105591,
+        "precision": 90.4824882507144,
+        "recall": 88.212927756654,
+        "confusion": [
+          [
+            130,
+            0
+          ],
+          [
+            31,
+            102
+          ]
+        ]
+      }
+    }
+  },
+  "3": {
+    "train_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_train.csv",
+    "test_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_test.csv",
+    "metrics": {
+      "training": {
+        "accuracy": 74.34869739478958,
+        "f1": 74.29204887040834,
+        "precision": 74.33698339535285,
+        "recall": 74.34869739478958,
+        "confusion": [
+          [
+            329,
+            141
+          ],
+          [
+            115,
+            413
+          ]
+        ]
+      },
+      "test": {
+        "accuracy": 70.72243346007605,
+        "f1": 69.03460534738693,
+        "precision": 77.01511062077661,
+        "recall": 70.72243346007605,
+        "confusion": [
+          [
+            123,
+            7
+          ],
+          [
+            70,
+            63
+          ]
+        ]
+      }
+    }
+  },
+  "4": {
+    "train_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_train.csv",
+    "test_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_test.csv",
+    "metrics": {
+      "training": {
+        "accuracy": 78.95791583166333,
+        "f1": 78.92049271278319,
+        "precision": 78.96031348411108,
+        "recall": 78.95791583166333,
+        "confusion": [
+          [
+            354,
+            116
+          ],
+          [
+            94,
+            434
+          ]
+        ]
+      },
+      "test": {
+        "accuracy": 77.56653992395437,
+        "f1": 76.52432009822469,
+        "precision": 84.00347695248165,
+        "recall": 77.56653992395437,
+        "confusion": [
+          [
+            129,
+            1
+          ],
+          [
+            58,
+            75
+          ]
+        ]
+      }
+    }
+  },
+  "5": {
+    "train_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_train.csv",
+    "test_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_test.csv",
+    "metrics": {
+      "training": {
+        "accuracy": 66.23246492985973,
+        "f1": 65.9304826261785,
+        "precision": 66.27304157808719,
+        "recall": 66.23246492985973,
+        "confusion": [
+          [
+            267,
+            203
+          ],
+          [
+            134,
+            394
+          ]
+        ]
+      },
+      "test": {
+        "accuracy": 80.6083650190114,
+        "f1": 80.06463398846368,
+        "precision": 84.7181620660708,
+        "recall": 80.6083650190114,
+        "confusion": [
+          [
+            127,
+            3
+          ],
+          [
+            48,
+            85
+          ]
+        ]
+      }
+    }
+  },
+  "6": {
+    "train_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_train.csv",
+    "test_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_test.csv",
+    "metrics": {
+      "training": {
+        "accuracy": 85.07014028056112,
+        "f1": 84.7717324191114,
+        "precision": 86.81323895316163,
+        "recall": 85.07014028056112,
+        "confusion": [
+          [
+            339,
+            131
+          ],
+          [
+            18,
+            510
+          ]
+        ]
+      },
+      "test": {
+        "accuracy": 86.69201520912547,
+        "f1": 86.47329126803253,
+        "precision": 89.51492107385644,
+        "recall": 86.69201520912547,
+        "confusion": [
+          [
+            130,
+            0
+          ],
+          [
+            35,
+            98
+          ]
+        ]
+      }
+    }
+  },
+  "7": {
+    "train_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_train.csv",
+    "test_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_test.csv",
+    "metrics": {
+      "training": {
+        "accuracy": 90.28056112224448,
+        "f1": 90.22565908182735,
+        "precision": 90.65316753927804,
+        "recall": 90.28056112224448,
+        "confusion": [
+          [
+            396,
+            74
+          ],
+          [
+            23,
+            505
+          ]
+        ]
+      },
+      "test": {
+        "accuracy": 88.97338403041825,
+        "f1": 88.85199836413025,
+        "precision": 90.98452782361241,
+        "recall": 88.97338403041825,
+        "confusion": [
+          [
+            130,
+            0
+          ],
+          [
+            29,
+            104
+          ]
+        ]
+      }
+    }
+  },
+  "8": {
+    "train_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_train.csv",
+    "test_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_test.csv",
+    "metrics": {
+      "training": {
+        "accuracy": 92.88577154308616,
+        "f1": 92.88351256838877,
+        "precision": 92.88593527914026,
+        "recall": 92.88577154308616,
+        "confusion": [
+          [
+            432,
+            38
+          ],
+          [
+            33,
+            495
+          ]
+        ]
+      },
+      "test": {
+        "accuracy": 96.57794676806084,
+        "f1": 96.57527379170332,
+        "precision": 96.7995185600569,
+        "recall": 96.57794676806084,
+        "confusion": [
+          [
+            130,
+            0
+          ],
+          [
+            9,
+            124
+          ]
+        ]
+      }
+    }
+  },
+  "9": {
+    "train_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_train.csv",
+    "test_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_test.csv",
+    "metrics": {
+      "training": {
+        "accuracy": 92.28456913827655,
+        "f1": 92.2716368506485,
+        "precision": 92.3411563228932,
+        "recall": 92.28456913827655,
+        "confusion": [
+          [
+            421,
+            49
+          ],
+          [
+            28,
+            500
+          ]
+        ]
+      },
+      "test": {
+        "accuracy": 94.67680608365019,
+        "f1": 94.66493359113602,
+        "precision": 95.19433882551753,
+        "recall": 94.67680608365019,
+        "confusion": [
+          [
+            130,
+            0
+          ],
+          [
+            14,
+            119
+          ]
+        ]
+      }
+    }
+  },
+  "10": {
+    "train_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_train.csv",
+    "test_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_test.csv",
+    "metrics": {
+      "training": {
+        "accuracy": 84.66933867735472,
+        "f1": 84.5338092610861,
+        "precision": 87.24098572881466,
+        "recall": 84.66933867735472,
+        "confusion": [
+          [
+            457,
+            13
+          ],
+          [
+            140,
+            388
+          ]
+        ]
+      },
+      "test": {
+        "accuracy": 99.23954372623575,
+        "f1": 99.23943374470822,
+        "precision": 99.25080974510632,
+        "recall": 99.23954372623575,
+        "confusion": [
+          [
+            128,
+            2
+          ],
+          [
+            0,
+            133
+          ]
+        ]
+      }
+    }
+  },
+  "245": {
+    "train_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_train.csv",
+    "test_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_test.csv",
+    "metrics": {
+      "training": {
+        "accuracy": 91.58316633266533,
+        "f1": 91.57870412793778,
+        "precision": 92.37969542496506,
+        "recall": 91.58316633266533,
+        "confusion": [
+          [
+            461,
+            9
+          ],
+          [
+            75,
+            453
+          ]
+        ]
+      },
+      "test": {
+        "accuracy": 98.09885931558935,
+        "f1": 98.09858444525256,
+        "precision": 98.16927193353048,
+        "recall": 98.09885931558935,
+        "confusion": [
+          [
+            130,
+            0
+          ],
+          [
+            5,
+            128
+          ]
+        ]
+      }
+    }
+  },
+  "1234": {
+    "train_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_train.csv",
+    "test_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_test.csv",
+    "metrics": {
+      "training": {
+        "accuracy": 88.77755511022045,
+        "f1": 88.67027122192222,
+        "precision": 89.52123342161711,
+        "recall": 88.77755511022045,
+        "confusion": [
+          [
+            378,
+            92
+          ],
+          [
+            20,
+            508
+          ]
+        ]
+      },
+      "test": {
+        "accuracy": 87.07224334600761,
+        "f1": 86.87247417650684,
+        "precision": 89.75238801817676,
+        "recall": 87.07224334600761,
+        "confusion": [
+          [
+            130,
+            0
+          ],
+          [
+            34,
+            99
+          ]
+        ]
+      }
+    }
+  },
+  "600": {
+    "train_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_train.csv",
+    "test_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_test.csv",
+    "metrics": {
+      "training": {
+        "accuracy": 90.8817635270541,
+        "f1": 90.87758033947382,
+        "precision": 90.88237798541715,
+        "recall": 90.8817635270541,
+        "confusion": [
+          [
+            421,
+            49
+          ],
+          [
+            42,
+            486
+          ]
+        ]
+      },
+      "test": {
+        "accuracy": 97.33840304182509,
+        "f1": 97.33732536312962,
+        "precision": 97.47439704698732,
+        "recall": 97.33840304182509,
+        "confusion": [
+          [
+            130,
+            0
+          ],
+          [
+            7,
+            126
+          ]
+        ]
+      }
+    }
+  },
+  "700": {
+    "train_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_train.csv",
+    "test_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_test.csv",
+    "metrics": {
+      "training": {
+        "accuracy": 93.18637274549098,
+        "f1": 93.19157942654938,
+        "precision": 93.2716469416416,
+        "recall": 93.18637274549098,
+        "confusion": [
+          [
+            446,
+            24
+          ],
+          [
+            44,
+            484
+          ]
+        ]
+      },
+      "test": {
+        "accuracy": 91.25475285171103,
+        "f1": 91.19625536464252,
+        "precision": 92.56939784785904,
+        "recall": 91.25475285171103,
+        "confusion": [
+          [
+            130,
+            0
+          ],
+          [
+            23,
+            110
+          ]
+        ]
+      }
+    }
+  },
+  "800": {
+    "train_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_train.csv",
+    "test_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_test.csv",
+    "metrics": {
+      "training": {
+        "accuracy": 91.78356713426854,
+        "f1": 0.9177795698073096,
+        "precision": 0.9262973660267035,
+        "recall": 0.9178356713426854,
+        "confusion": [
+          [
+            463,
+            7
+          ],
+          [
+            75,
+            453
+          ]
+        ]
+      },
+      "test": {
+        "accuracy": 95.81749049429658,
+        "f1": 0.9581216438422492,
+        "precision": 0.9614378556211741,
+        "recall": 0.9581749049429658,
+        "confusion": [
+          [
+            130,
+            0
+          ],
+          [
+            11,
+            122
+          ]
+        ]
+      }
+    }
+  },
+  "1": {
+    "train_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_train.csv",
+    "test_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_test.csv",
+    "metrics": {
+      "training": {
+        "accuracy": 89.57915831663327,
+        "f1": 0.8953476951590816,
+        "precision": 0.8981331576088725,
+        "recall": 0.8957915831663327,
+        "confusion": [
+          [
+            397,
+            73
+          ],
+          [
+            31,
+            497
+          ]
+        ]
+      },
+      "test": {
+        "accuracy": 88.59315589353612,
+        "f1": 0.8845815379350345,
+        "precision": 0.907319391634981,
+        "recall": 0.8859315589353612,
+        "confusion": [
+          [
+            130,
+            0
+          ],
+          [
+            30,
+            103
+          ]
+        ]
+      }
+    }
+  },
+  "314": {
+    "train_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_train.csv",
+    "test_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_test.csv",
+    "metrics": {
+      "training": {
+        "accuracy": 87.87575150300601,
+        "f1": 0.8787352384375576,
+        "precision": 0.885305842775531,
+        "recall": 0.8787575150300602,
+        "confusion": [
+          [
+            440,
+            30
+          ],
+          [
+            91,
+            437
+          ]
+        ]
+      },
+      "test": {
+        "accuracy": 96.57794676806084,
+        "f1": 0.9657259245079827,
+        "precision": 0.967948374658598,
+        "recall": 0.9657794676806084,
+        "confusion": [
+          [
+            121,
+            9
+          ],
+          [
+            0,
+            133
+          ]
+        ]
+      }
+    }
+  },
+  "999": {
+    "train_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_train.csv",
+    "test_path": "C:/Users/HP/Downloads/Euro_USD Stock/BTC_test.csv",
+    "metrics": {
+      "training": {
+        "accuracy": 82.86573146292585,
+        "f1": 0.8269315679337277,
+        "precision": 0.8558399162874314,
+        "recall": 0.8286573146292585,
+        "confusion": [
+          [
+            451,
+            19
+          ],
+          [
+            152,
+            376
+          ]
+        ]
+      },
+      "test": {
+        "accuracy": 96.57794676806084,
+        "f1": 0.9657259245079827,
+        "precision": 0.967948374658598,
+        "recall": 0.9657794676806084,
+        "confusion": [
+          [
+            121,
+            9
+          ],
+          [
+            0,
+            133
+          ]
+        ]
+      }
+    }
+  }
+}
