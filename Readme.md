@@ -4,7 +4,7 @@ A neural network experiment manager that trains and evaluates Multi-Layer Percep
 
 ---
 
-## 🚀 Installation
+## Installation
 
 1. Download the `MLP.exe` file from the `dist/MLP` folder  
 2. Place it in your desired directory  
@@ -12,13 +12,13 @@ A neural network experiment manager that trains and evaluates Multi-Layer Percep
 
 ---
 
-## ▶️ Usage
+## Usage
 
 Run `MLP.exe` from the command line or by double-clicking the file.
 
 ---
 
-## 🧪 First Run (New Experiment)
+## First Run (New Experiment)
 
 ```
 === MLP Experiment Manager ===
@@ -38,7 +38,7 @@ Results saved under seed: 6
 
 ---
 
-## 📊 Example Output
+## Example Output
 
 ```
 === Results ===
@@ -49,7 +49,7 @@ F1 Score: 0.8477
 
 ---
 
-## 🔁 Subsequent Runs (Existing Experiment)
+## Subsequent Runs (Existing Experiment)
 
 ```
 === MLP Experiment Manager ===
@@ -67,7 +67,7 @@ F1 Score: 0.8953
 
 ---
 
-## 📥 Input Requirements
+## Input Requirements
 
 - Training/Test datasets must be CSV files with matching formats  
 - Seed values:
@@ -76,7 +76,7 @@ F1 Score: 0.8953
 
 ---
 
-## 📤 Output Metrics
+## Output Metrics
 
 For each experiment (stored by seed value):
 
@@ -96,7 +96,7 @@ For each experiment (stored by seed value):
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 project/
@@ -108,7 +108,7 @@ project/
 
 ---
 
-## ⚠️ Troubleshooting
+## Troubleshooting
 
 - If file paths are not found, use absolute paths (e.g. `C:/path/to/file.csv`)  
 - Ensure CSV files are properly formatted  
@@ -116,7 +116,7 @@ project/
 
 ---
 
-## ⚙️ Performance Notes
+## Performance Notes
 
 - Early stopping implemented (patience = 100)  
 - Metrics calculated on both training and test sets  
